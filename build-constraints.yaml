@@ -1,6 +1,9 @@
 ghc-major-version: "8.0"
 # Constraints for brand new builds
 packages:
+    "Martin Ceresa <martinceresa@gamcil.om> @martinceresa":
+        - megadeth
+
     "Siddharth Bhat <siddu.druid@gmail.com> @bollu":
         - symengine
 
@@ -1718,7 +1721,7 @@ packages:
         # GHC 8 - diversity
         # GHC 8 - modify-fasta
         - tree-fun
-        - random-tree
+        - random-tree
         - clumpiness
         - find-clumpiness
         # GHC 8 - blosum
